@@ -1,4 +1,4 @@
-# Projeto_12_Previs-o_do_tempo
+# Projeto_12_Previsao_do_tempo
 # 🌤️ Dashboard de Previsão do Tempo
 
 Aplicação web interativa desenvolvida em Python para consulta de previsão do tempo para os próximos 7 dias em diferentes cidades do mundo.
